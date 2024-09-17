@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
-import { Appbar } from "../component/AppBar";
-import { Balance } from "../component/Balance";
-import { Users } from "../component/Users";
+import { Appbar } from "../component/AppBar.jsx";
+import { Balance } from "../component/Balance.jsx";
+import { Users } from "../component/Users.jsx";
 import axios from "axios";
 
 export const Dashboard = () => {
