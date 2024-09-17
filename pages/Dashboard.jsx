@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { Appbar } from "../component/AppBar.jsx";
+import { Appbar } from "../component/Appbar.jsx";
 import { Balance } from "../component/Balance.jsx";
 import { Users } from "../component/Users.jsx";
 import axios from "axios";
